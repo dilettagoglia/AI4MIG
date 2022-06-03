@@ -75,6 +75,21 @@ Grant Agreement n. 870661.
     
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-    
+
+If you use the library in an academic setting, please cite the following paper:
+
+> Goglia, D., Pollacci, L., Sirbu, A. (2022) "Dataset of Multi-aspect Integrated Migration Indicators", ArXiv, [10.48550/arXiv.2204.14223](https://doi.org/10.48550/arXiv.2204.14223)
+
+```tex
+@article{Goglia2022,
+  Author = {Diletta Goglia and Laura Pollacci and Alina Sirbu},
+  Title = {Dataset of Multi-aspect Integrated Migration Indicators},
+  Year = {2022},
+  Doi = {10.48550/arXiv.2204.14223},
+  Url = {https://arxiv.org/abs/2204.14223},
+  Journal = {{ArXiv}}}
+```
+   
+---
 _Last update: June 3rd, 2022_
  
