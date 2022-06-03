@@ -1,5 +1,8 @@
 # Use of non-traditional data sources to nowcast migration trends through Artificial Intelligence technologies.
 
+ <a href="https://github.com/dilettagoglia/AI4MIG/blob/main/LICENSE"><img src="https://img.shields.io/github/license/dilettagoglia/AI4MIG" alt="License" /></a>
+ <a href="https://github.com/dilettagoglia/AI4MIG/stargazers"><img src="https://img.shields.io/github/stars/dilettagoglia/AI4MIG" alt="GitHub stars" /></a>
+ <a href="https://github.com/dilettagoglia/AI4MIG/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/dilettagoglia/AI4MIG" /></a>
 
 #### Goglia, D.<sup>1</sup>, Pollacci, L.<sup>1</sup>, Sirbu, A.<sup>1</sup>
 
@@ -24,8 +27,8 @@ All in all, our contribution lie in the need for new perspectives, methods, and 
 ## Resources
 | MIMI dataset  | Linear Regression | Neural Model | Talks
 | ------------- | ----------------- | ------------ | -----
-| [Code](https://github.com/dilettagoglia/MIMI-dataset)  | [Code](https://github.com/dilettagoglia/OLS-model) | _Please wait for the content_  | [Slides](https://github.com/dilettagoglia/Non-traditional_data_sources_to_nowcast_migration_trends_through_AI/slides)
-| [Download](https://doi.org/10.5281/zenodo.6493325)  | [Documentation](https://www.statsmodels.org/dev/regression.html) | _Please wait for the content_  | [Abstract](https://github.com/dilettagoglia/Non-traditional_data_sources_to_nowcast_migration_trends_through_AI/abstracts) 
+| [Code](https://github.com/dilettagoglia/MIMI-dataset)  | [Code](https://github.com/dilettagoglia/OLS-model) | _Please wait for the content_  | [Slides](https://github.com/dilettagoglia/AI4MIG/slides)
+| [Download](https://doi.org/10.5281/zenodo.6493325)  | [Documentation](https://www.statsmodels.org/dev/regression.html) | _Please wait for the content_  | [Abstract](https://github.com/dilettagoglia/AI4MIG/abstracts) 
 
 
 ## Related publications
