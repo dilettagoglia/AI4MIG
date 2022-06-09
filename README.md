@@ -4,10 +4,10 @@
  <a href="https://github.com/dilettagoglia/AI4MIG/stargazers"><img src="https://img.shields.io/github/stars/dilettagoglia/AI4MIG" alt="GitHub stars" /></a>
  <a href="https://github.com/dilettagoglia/AI4MIG/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/dilettagoglia/AI4MIG" /></a>
 
-#### Goglia, D.<sup>1</sup>, Pollacci, L.<sup>1</sup>, Sirbu, A.<sup>1</sup>
+#### Goglia, D.<sup>1</sup> <a href="https://orcid.org/0000-0002-2622-7495"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>, Pollacci, L.<sup>1</sup>, Sirbu, A.<sup>1</sup>
 
-<sup>1</sup> Department of Computer Science, University of Pisa, 56127 Pisa, Italy; d.goglia@studenti.unipi.it (D.G.),
-laura.pollacci@di.unipi.it (L.P.), alina.sirbu@unipi.it (A.S)
+<sup>1</sup> Department of Computer Science, University of Pisa, 56127 Pisa, Italy; [d.goglia@studenti.unipi.it](mailto:d.goglia@studenti.unipi.it) (D.G.),
+[laura.pollacci@di.unipi.it](mailto:laura.pollacci@di.unipi.it) (L.P.), [alina.sirbu@unipi.it](mailto:alina.sirbu@unipi.it) (A.S.)
 
 ## Short abstract
 In recent years the pursuit of original drivers and methods is becoming an increasing
@@ -25,13 +25,13 @@ All in all, our contribution lie in the need for new perspectives, methods, and 
 
 
 ## Resources
-| MIMI dataset  | Linear Regression | Neural Model | Talks
-| ------------- | ----------------- | ------------ | -----
-| [Code](https://github.com/dilettagoglia/MIMI-dataset)  | [Code](https://github.com/dilettagoglia/OLS-model) | _Please wait for the content_  | [Slides](https://github.com/dilettagoglia/AI4MIG/slides)
-| [Download](https://doi.org/10.5281/zenodo.6493325)  | [Documentation](https://www.statsmodels.org/dev/regression.html) | _Please wait for the content_  | [Abstract](https://github.com/dilettagoglia/AI4MIG/abstracts) 
+| MIMI dataset                                                  | Linear Regression                                                | Neural Model                  | Talks                                                                    |
+|---------------------------------------------------------------|------------------------------------------------------------------|-------------------------------|--------------------------------------------------------------------------|
+| [Code samples](https://github.com/dilettagoglia/MIMI-dataset) | [Code](https://github.com/dilettagoglia/OLS-model)               | _Please wait for the content_ | [Slides](https://github.com/dilettagoglia/AI4MIG/slides)                 |
+| [Download](https://doi.org/10.5281/zenodo.6493325)            | [Documentation](https://www.statsmodels.org/dev/regression.html) |                               | [Submitted abstracts](https://github.com/dilettagoglia/AI4MIG/abstracts) |
+ | Related papers: see "Publications" section below              |                                                                  |                               |                                                                          | 
 
-
-## Related publications
+## Publications
 - Goglia, D. (2022) "Multi-aspect Integrated Migration Indicators (MIMI) dataset", v2.0. Zenodo. [10.5281/zenodo.6493325](https://doi.org/10.5281/zenodo.6493325) <a href="https://doi.org/10.5281/zenodo.6493325"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.6493325.svg" alt="DOI"></a>
 - Goglia, D., Pollacci, L., Sirbu, A. (2022) "Dataset of Multi-aspect Integrated Migration Indicators", submitted to _MDPI Data_, ArXiv pre-print available at [https://arxiv.org/abs/2204.14223](https://arxiv.org/abs/2204.14223) [![arXiv](https://img.shields.io/badge/arXiv-2204.14223-b31b1b.svg?style=flat)](https://arxiv.org/abs/2204.14223)
 <!-- paper 2 -->
@@ -45,7 +45,7 @@ This work was presented during the following events:
 - [“Measuring Migration: How? When? Why?”](https://www.torch.ox.ac.uk/event/call-for-papers/submissions-mmn-conference-measuring-migration-how-when-why?fbclid=IwAR0ML5v0ANKyZKBb572EO8ZEuzpV7HQJA-eCCBuclAVq6uO9N53BWmmN4YI), organised by University of Oxford’s Migration and Mobility Network & Nuffield College | June 9th and 10th, 2022 | Nuffield College, University of Oxford, Oxford, GB. <br/> Corresponding panel: "Session 1a: How do we measure migration? Methods and advancements".
 
 
-## Funding
+## Fundings
 This work is supported by the European Union – Horizon 2020 Program under the scheme “INFRAIA-01-
 2018-2019 – Integrating Activities for Advanced Communities”, Grant Agreement n.871042, <a href='https://plusplus.sobigdata.eu/'>“SoBigData++:
 European Integrated Infrastructure for Social Mining and Big Data Analytics”</a>, and by the Horizon2020
@@ -66,7 +66,7 @@ Grant Agreement n. 870661.
     
 
 ## Contact
-**Dr. Diletta Goglia** <br/>
+**Dr. Diletta Goglia** <a href="https://orcid.org/0000-0002-2622-7495"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> <br/>
 **Postgraduate Student in MSc in Artificial Intelligence** <br/>
 **Computer Science department, University of Pisa, Italy** <br/>
 [d.goglia@studenti.unipi.it](mailto:d.goglia@studenti.unipi.it) <br/>
@@ -91,5 +91,5 @@ If you use the library in an academic setting, please cite the following paper:
 ```
    
 ---
-_Last update: June 3rd, 2022_
+_Last update: June 9th, 2022_
  
