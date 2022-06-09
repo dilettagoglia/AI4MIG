@@ -25,11 +25,11 @@ All in all, our contribution lie in the need for new perspectives, methods, and 
 
 
 ## Resources
-| MIMI dataset                                                  | Linear Regression                                                | Neural Model                  | Talks                                                                    |
-|---------------------------------------------------------------|------------------------------------------------------------------|-------------------------------|--------------------------------------------------------------------------|
-| [Code samples](https://github.com/dilettagoglia/MIMI-dataset) | [Code](https://github.com/dilettagoglia/OLS-model)               | _Please wait for the content_ | [Slides](https://github.com/dilettagoglia/AI4MIG/slides)                 |
-| [Download](https://doi.org/10.5281/zenodo.6493325)            | [Documentation](https://www.statsmodels.org/dev/regression.html) |                               | [Submitted abstracts](https://github.com/dilettagoglia/AI4MIG/abstracts) |
- | Related papers: see "Publications" section below              |                                                                  |                               |                                                                          | 
+| MIMI dataset                                                  | Linear Regression                                                | Neural Model                  | Talks                                                                              |
+|---------------------------------------------------------------|------------------------------------------------------------------|-------------------------------|------------------------------------------------------------------------------------|
+| [Code samples](https://github.com/dilettagoglia/MIMI-dataset) | [Code](https://github.com/dilettagoglia/OLS-model)               | _Please wait for the content_ | [Slides](https://github.com/dilettagoglia/AI4MIG/tree/main/slides)                 |
+| [Download](https://doi.org/10.5281/zenodo.6493325)            | [Documentation](https://www.statsmodels.org/dev/regression.html) |                               | [Submitted abstracts](https://github.com/dilettagoglia/AI4MIG/tree/main/abstracts) |
+ | Related papers: see "Publications" section below              |                                                                  |                               |                                                                                    | 
 
 ## Publications
 - Goglia, D. (2022) "Multi-aspect Integrated Migration Indicators (MIMI) dataset", v2.0. Zenodo. [10.5281/zenodo.6493325](https://doi.org/10.5281/zenodo.6493325) <a href="https://doi.org/10.5281/zenodo.6493325"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.6493325.svg" alt="DOI"></a>
