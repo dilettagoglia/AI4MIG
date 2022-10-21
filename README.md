@@ -25,25 +25,36 @@ All in all, our contribution lie in the need for new perspectives, methods, and 
 
 
 ## Resources
-| MIMI dataset                                                  | Linear Regression                                                | Neural Model                  | Talks                                                                              |
-|---------------------------------------------------------------|------------------------------------------------------------------|-------------------------------|------------------------------------------------------------------------------------|
-| [Code samples](https://github.com/dilettagoglia/MIMI-dataset) | [Code](https://github.com/dilettagoglia/OLS-model)               | _Please wait for the content_ | [Slides](https://github.com/dilettagoglia/AI4MIG/tree/main/slides)                 |
-| [Download](https://doi.org/10.5281/zenodo.6493325)            | [Documentation](https://www.statsmodels.org/dev/regression.html) |                               | [Submitted abstracts](https://github.com/dilettagoglia/AI4MIG/tree/main/abstracts) |
- | Related papers: see "Publications" section below              |                                                                  |                               |                                                                                    | 
+### MIMI dataset
+
+ - 💻[Code samples](https://github.com/dilettagoglia/MIMI-dataset)
+ - 📥[Download dataset](https://doi.org/10.5281/zenodo.6493325)    
+ - 🧾[Documentation](https://arxiv.org/abs/2204.14223)
+
+### OLS & Neural Models      
+- 💻[Code](https://github.com/dilettagoglia/OLS-model) - _Please wait for the content_
+
+### Talks                                                                              
+- 🎬[Slides](https://github.com/dilettagoglia/AI4MIG/tree/main/slides)  
+- 📽️[Video](https://www.youtube.com/channel/UCCRjj6aI4FdP8QIS_3b_-KA/featured)
+- 🗂️[Submitted abstracts](https://github.com/dilettagoglia/AI4MIG/tree/main/abstracts)                                                                          
 
 ## Publications
 - Goglia, D. (2022) "Multi-aspect Integrated Migration Indicators (MIMI) dataset", v2.0. Zenodo. [10.5281/zenodo.6493325](https://doi.org/10.5281/zenodo.6493325) <a href="https://doi.org/10.5281/zenodo.6493325"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.6493325.svg" alt="DOI"></a>
 - Goglia, D., Pollacci, L., Sirbu, A. (2022) "Dataset of Multi-aspect Integrated Migration Indicators", submitted to _MDPI Data_, ArXiv pre-print available at [https://arxiv.org/abs/2204.14223](https://arxiv.org/abs/2204.14223) [![arXiv](https://img.shields.io/badge/arXiv-2204.14223-b31b1b.svg?style=flat)](https://arxiv.org/abs/2204.14223)
-<!-- paper 2 -->
+<!-- paper 2 --> 
 <!-- Oxford conference proceedings -->
 <!-- master thesis -->
 
 
 ## Talks
-This work was presented during the following events:
-- [“Digitization of Migration Research Methods: Promises and Pitfalls”](https://www.imiscoe.org/news-and-blog/news/news-from-members/1426-call-for-papers-workshop-digitization-of-migration-research-methods-promises-and-pitfalls), organised by Warsaw Centre of Migration Research (CMR) & University of Warsaw | May 30th, 2022 | Centre of New Technologies University of Warsaw, Warsaw, Poland. <br/> Corresponding panel: "Session 2: Mixing and/or combining – new considerations for the digital era". 
-- [“Measuring Migration: How? When? Why?”](https://www.torch.ox.ac.uk/event/call-for-papers/submissions-mmn-conference-measuring-migration-how-when-why?fbclid=IwAR0ML5v0ANKyZKBb572EO8ZEuzpV7HQJA-eCCBuclAVq6uO9N53BWmmN4YI), organised by University of Oxford’s Migration and Mobility Network & Nuffield College | June 9th and 10th, 2022 | Nuffield College, University of Oxford, Oxford, GB. <br/> Corresponding panel: "Session 1a: How do we measure migration? Methods and advancements".
-
+The different stages of this work were presented during the following events:
+- **October 19th, 2022** | [Migration and Mobility Research in the Digital Era (MIMODE 2022)](https://www.demogr.mpg.de/en/news_events_6123/news_press_releases_4630/news/migration_and_mobility_research_in_the_digital_era_mimode_2022_10728), a satellite event of the ["Conference on Complex Systems 2022"](https://www.ccs2022.org/index.php), organised by Max Planck Institute for Demographic Research, Palma De Mallorca, Illes Balears, Spain
+- **October 10th and 11th, 2022** | [New data and methods for migration studies: going beyond traditional data sources](https://www.parisschoolofeconomics.eu/en/news/october-10-11-new-data-and-methods-for-migration-studies-workshop/), workshop organised by Paris School of Economics, SoBigData++ consortium, HumMingBird consortium and Institut Convergences Migrations | Paris School of Economics, Paris, France. <br/> Panel: "Session 4: Methods".
+- **June 13th and 14th, 2022** | [HumMingBird Consortium Meeting](https://hummingbird-h2020.eu/), University of Pisa, Pisa, Italy.
+- **June 9th and 10th, 2022** | [“Measuring Migration: How? When? Why?”](https://www.torch.ox.ac.uk/event/call-for-papers/submissions-mmn-conference-measuring-migration-how-when-why?fbclid=IwAR0ML5v0ANKyZKBb572EO8ZEuzpV7HQJA-eCCBuclAVq6uO9N53BWmmN4YI), conference organised by University of Oxford’s Migration and Mobility Network & Nuffield College | Nuffield College, University of Oxford, Oxford, GB. <br/> Panel: "Session 1a: How do we measure migration? Methods and advancements".
+- **May 30th, 2022** | [“Digitization of Migration Research Methods: Promises and Pitfalls”](https://www.imiscoe.org/news-and-blog/news/news-from-members/1426-call-for-papers-workshop-digitization-of-migration-research-methods-promises-and-pitfalls), workshop organised by Warsaw Centre of Migration Research (CMR) & University of Warsaw | Centre of New Technologies University of Warsaw, Warsaw, Poland. <br/> Panel: "Session 2: Mixing and/or combining – new considerations for the digital era". 
+- **December 9th and 10th, 2021** | [HumMingBird Consortium Meeting](https://hummingbird-h2020.eu/), University of Salamanca, Salamanca, Spain.
 
 ## Fundings
 This work is supported by the European Union – Horizon 2020 Program under the scheme “INFRAIA-01-
@@ -66,11 +77,12 @@ Grant Agreement n. 870661.
     
 
 ## Contact
-**Dr. Diletta Goglia** <a href="https://orcid.org/0000-0002-2622-7495"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> <br/>
+**Diletta Goglia** <a href="https://orcid.org/0000-0002-2622-7495"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> <br/>
 **Postgraduate Student in MSc in Artificial Intelligence** <br/>
 **Computer Science department, University of Pisa, Italy** <br/>
-[d.goglia@studenti.unipi.it](mailto:d.goglia@studenti.unipi.it) <br/>
-[dilettagoglia.netlify.app](www.dilettagoglia.netlify.app) 
+✉️[d.goglia@studenti.unipi.it](mailto:d.goglia@studenti.unipi.it) <br/>
+🌐[dilettagoglia.netlify.app](www.dilettagoglia.netlify.app) <br/>
+<img src='https://upload.wikimedia.org/wikipedia/it/archive/0/09/20160903181541%21Twitter_bird_logo.png' width='16px' alt='Twitter'/> <a href='https://twitter.com/dilettagoglia'>@dilettagoglia</a>
     
     
 ## License
@@ -91,5 +103,5 @@ If you use the library in an academic setting, please cite the following paper:
 ```
    
 ---
-_Last update: June 9th, 2022_
+_Last update: October, 2022_
  
